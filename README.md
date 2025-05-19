@@ -138,8 +138,8 @@ The final cleaned dataset was used to build a fully interactive dashboard in **P
 
 **Mohamed [Your Last Name]**
 
-- 📧 Email: [your.email@example.com]
-- 🔗 GitHub: [github.com/your-profile]
+- 📧 Email: [mohamedkhlawy153@gmail.com]
+- 🔗 Linkedin: [https://www.linkedin.com/in/mohamed-mahmoud-17030b2a3/]
 - 🧠 Project Type: Customer Segmentation | Machine Learning | BI
 
 ---
